@@ -6,7 +6,7 @@ public class App {
         letra3 = 'l';
         letra4 = 'u';
         letra5 = 'd';
-        String cadena = letra1+letra2+letra3+letra4+letra5;
+        String cadena = ""+letra1+letra2+letra3+letra4+letra5;
         System.out.println(cadena);
     }
 }
